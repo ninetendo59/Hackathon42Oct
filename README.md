@@ -1,7 +1,8 @@
 # 42KL HACKATHON 6 Oct - 9 Oct 2023
 Book a Class App
 
-Prepared by :
+Prepared by :  
+
 ![logo](https://github.com/ninetendo59/Hackathon42Oct/blob/main/Design%20Apps/logo.png)
 
 Lead:  
