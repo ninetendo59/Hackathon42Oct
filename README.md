@@ -1,7 +1,17 @@
-# Hackathon42Oct
-Hackathon 42KL Oct
+# 42KL HACKATHON 6 Oct - 9 Oct 2023
+Book a Class App
 
-Lead: rbutarbu
+Prepared by :
+![logo](https://github.com/ninetendo59/Hackathon42Oct/blob/main/Design%20Apps/logo.png)
 
-Members:  iazmi
-          hetan
+Lead:  
+[rbutarbu](https://github.com/rubutar)
+
+
+Members:  
+[iazmi](https://github.com/ImranAzmi95)  
+[hetan](https://github.com/ninetendo59)  
+
+
+Preview : 
+![preview](https://github.com/ninetendo59/Hackathon42Oct/blob/main/Design%20Apps/1.%20All%20Page.png)
